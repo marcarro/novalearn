@@ -37,7 +37,7 @@ export default function WelcomePage() {
     <div className="w-full max-w-md">
       <div className="bg-white shadow-lg rounded-lg px-8 pt-6 pb-8">
         <h1 className="text-2xl font-bold text-center text-gray-800 mb-6">
-          Biblioteca Virtual NovaLearn
+          NovaLearn
         </h1>
         
         <div className="text-center text-lg mb-6">
